@@ -1,1 +1,18 @@
-
+{
+    "id": 137579074,
+    "name": "Cycling",
+    "author": "wyarixz",
+    "creators": ["wyarixz"],
+    "verifier": "wyarixz",
+    "verification": "https://youtu.be/PfgzDlnzBak",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "N/A",
+            "link": "n/a",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
